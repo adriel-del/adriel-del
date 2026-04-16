@@ -7,4 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-del&layout=donut-vertical)](https://github.com/adriel-del/github-readme-stats)
 
 <img aling="center" alt="python" height="40" wight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img aling="center" alt="html" height="40" wight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
           
