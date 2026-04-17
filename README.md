@@ -3,10 +3,8 @@
 - 📚 Estudando Programação
 - 🤖 Projeto em Python
 
-<div>
-          ![Adriel GitHub stats](https://github-readme-stats.vercel.app/api?username=adriel-del&show_icons=true&theme=dracula)
-          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-del&layout=donut-vertical)](https://github.com/adriel-del/github-readme-stats)
-</div>
+![Adriel GitHub stats](https://github-readme-stats.vercel.app/api?username=adriel-del&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-del&layout=donut-vertical)](https://github.com/adriel-del/github-readme-stats)
 
 
 <img aling="center" alt="Python" height="40" wight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
