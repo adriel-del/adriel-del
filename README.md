@@ -4,8 +4,8 @@
 - 🤖 Projeto em Python
 
 <div>
-![Adriel GitHub stats](https://github-readme-stats.vercel.app/api?username=adriel-del&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-del&layout=donut-vertical)](https://github.com/adriel-del/github-readme-stats)
+          ![Adriel GitHub stats](https://github-readme-stats.vercel.app/api?username=adriel-del&show_icons=true&theme=dracula)
+          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-del&layout=donut-vertical)](https://github.com/adriel-del/github-readme-stats)
 </div>
 
 
